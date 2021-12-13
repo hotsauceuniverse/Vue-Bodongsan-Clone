@@ -87,9 +87,6 @@ export default {
   // 동적인 UI만드는 법:
   // 1. UI의 현재 상태를 데이터로 저장해둠
   // 2. 데이터에 따라 UI가 어떻게 보일지 작성
-
-  components: { 
-  }
 }
 
 </script>
